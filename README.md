@@ -1,5 +1,5 @@
-# Sameer Bhavar Portfolio
-<!-- sameer bhavar Portfolio -->
+# Giridhar Reddy Portfolio
+<!-- giridhar reddy Portfolio -->
 
 My portfolio This portfolio  created using html,css,javascript and Bootstrap.In this portfolio I added my projects my tech skill
   
@@ -19,7 +19,7 @@ My portfolio This portfolio  created using html,css,javascript and Bootstrap.In 
   
   
   # Deployed Link :-
-    https://sameerbhavar.github.io/
+    https://giridharappidi.github.io/
     
   
 
