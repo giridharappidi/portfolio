@@ -8,7 +8,7 @@ My portfolio This portfolio  created using html,css,javascript and Bootstrap.In 
     HTML 5, CSS, JavaScript and Bootstrap
     
   ## Team Members :-
-  - Sameer Bhavar
+  - Giridhar Reddy
  
   
   ## Clone Snaps :-
